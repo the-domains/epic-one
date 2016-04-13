@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Epic One]]></title>
         <description><![CDATA[Epic One]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/epic-one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 17:52:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 18:04:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/epic-one/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34065676-0c30-4bc6-9bae-1251251a4d46.jpg">]]></description>
-            <link>undefined697f6ea9-7621-41b8-b65f-21cb895f5335/index.html</link>
+            <link>https://thegrid.ai/epic-one/697f6ea9-7621-41b8-b65f-21cb895f5335/index.html</link>
             <guid isPermaLink="false">697f6ea9-7621-41b8-b65f-21cb895f5335</guid>
-            <pubDate>Wed, 13 Apr 2016 17:52:04 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 18:04:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
